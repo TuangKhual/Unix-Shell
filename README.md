@@ -9,8 +9,8 @@ a simple shell and supports process creation, command execution and basic built 
 - Error handling for failures and invalid commands
 
 To run it you just:
-'''
+```
 g++ -Wall -o shell shell.cpp
 ./shell
-'''
+```
 
